@@ -6,13 +6,13 @@
 //  Copyright © 2017 UAG. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "Components.h"
 
-@interface ViewController ()
+@interface Components ()
 
 @end
 
-@implementation ViewController
+@implementation Components
 
 - (void)viewDidLoad {
     [super viewDidLoad];

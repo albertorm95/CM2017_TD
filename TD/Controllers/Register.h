@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  Register.h
 //  TD
 //
 //  Created by Walter Gonzalez Domenzain on 29/11/17.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface Register : UIViewController
 
 @end
-
