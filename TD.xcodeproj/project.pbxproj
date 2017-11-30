@@ -8,26 +8,42 @@
 
 /* Begin PBXBuildFile section */
 		D15DF4921FCF9DE600AA9E37 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D15DF4911FCF9DE600AA9E37 /* AppDelegate.m */; };
-		D15DF4951FCF9DE600AA9E37 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D15DF4941FCF9DE600AA9E37 /* ViewController.m */; };
+		D15DF4951FCF9DE600AA9E37 /* Components.m in Sources */ = {isa = PBXBuildFile; fileRef = D15DF4941FCF9DE600AA9E37 /* Components.m */; };
 		D15DF4981FCF9DE600AA9E37 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D15DF4961FCF9DE600AA9E37 /* Main.storyboard */; };
 		D15DF49B1FCF9DE600AA9E37 /* TD.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D15DF4991FCF9DE600AA9E37 /* TD.xcdatamodeld */; };
 		D15DF49D1FCF9DE600AA9E37 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D15DF49C1FCF9DE600AA9E37 /* Assets.xcassets */; };
 		D15DF4A01FCF9DE600AA9E37 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D15DF49E1FCF9DE600AA9E37 /* LaunchScreen.storyboard */; };
 		D15DF4A31FCF9DE600AA9E37 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D15DF4A21FCF9DE600AA9E37 /* main.m */; };
+		D15DF4AD1FCFA18F00AA9E37 /* Participants.m in Sources */ = {isa = PBXBuildFile; fileRef = D15DF4AC1FCFA18F00AA9E37 /* Participants.m */; };
+		D15DF4B01FCFA1B900AA9E37 /* Funding.m in Sources */ = {isa = PBXBuildFile; fileRef = D15DF4AF1FCFA1B900AA9E37 /* Funding.m */; };
+		D15DF4B31FCFA1D000AA9E37 /* Register.m in Sources */ = {isa = PBXBuildFile; fileRef = D15DF4B21FCFA1D000AA9E37 /* Register.m */; };
+		D15DF4B81FCFA46900AA9E37 /* cellComponents.m in Sources */ = {isa = PBXBuildFile; fileRef = D15DF4B61FCFA46900AA9E37 /* cellComponents.m */; };
+		D15DF4B91FCFA46900AA9E37 /* cellComponents.xib in Resources */ = {isa = PBXBuildFile; fileRef = D15DF4B71FCFA46900AA9E37 /* cellComponents.xib */; };
+		D17074FD1FCFA61C0072459A /* Artificial-Intelligence.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D17074FC1FCFA61C0072459A /* Artificial-Intelligence.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		D15DF48D1FCF9DE600AA9E37 /* TD.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TD.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D15DF4901FCF9DE600AA9E37 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		D15DF4911FCF9DE600AA9E37 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		D15DF4931FCF9DE600AA9E37 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		D15DF4941FCF9DE600AA9E37 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		D15DF4931FCF9DE600AA9E37 /* Components.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Components.h; sourceTree = "<group>"; };
+		D15DF4941FCF9DE600AA9E37 /* Components.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Components.m; sourceTree = "<group>"; };
 		D15DF4971FCF9DE600AA9E37 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D15DF49A1FCF9DE600AA9E37 /* TD.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = TD.xcdatamodel; sourceTree = "<group>"; };
 		D15DF49C1FCF9DE600AA9E37 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D15DF49F1FCF9DE600AA9E37 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D15DF4A11FCF9DE600AA9E37 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D15DF4A21FCF9DE600AA9E37 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		D15DF4AB1FCFA18F00AA9E37 /* Participants.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Participants.h; sourceTree = "<group>"; };
+		D15DF4AC1FCFA18F00AA9E37 /* Participants.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Participants.m; sourceTree = "<group>"; };
+		D15DF4AE1FCFA1B900AA9E37 /* Funding.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Funding.h; sourceTree = "<group>"; };
+		D15DF4AF1FCFA1B900AA9E37 /* Funding.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Funding.m; sourceTree = "<group>"; };
+		D15DF4B11FCFA1D000AA9E37 /* Register.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Register.h; sourceTree = "<group>"; };
+		D15DF4B21FCFA1D000AA9E37 /* Register.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Register.m; sourceTree = "<group>"; };
+		D15DF4B51FCFA46900AA9E37 /* cellComponents.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = cellComponents.h; sourceTree = "<group>"; };
+		D15DF4B61FCFA46900AA9E37 /* cellComponents.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = cellComponents.m; sourceTree = "<group>"; };
+		D15DF4B71FCFA46900AA9E37 /* cellComponents.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = cellComponents.xib; sourceTree = "<group>"; };
+		D17074FC1FCFA61C0072459A /* Artificial-Intelligence.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Artificial-Intelligence.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,10 +76,10 @@
 		D15DF48F1FCF9DE600AA9E37 /* TD */ = {
 			isa = PBXGroup;
 			children = (
-				D15DF4901FCF9DE600AA9E37 /* AppDelegate.h */,
-				D15DF4911FCF9DE600AA9E37 /* AppDelegate.m */,
-				D15DF4931FCF9DE600AA9E37 /* ViewController.h */,
-				D15DF4941FCF9DE600AA9E37 /* ViewController.m */,
+				D17074F21FCFA5ED0072459A /* Img */,
+				D15DF4B41FCFA41600AA9E37 /* Cells */,
+				D15DF4A91FCF9E7000AA9E37 /* Controllers */,
+				D15DF4AA1FCF9E8300AA9E37 /* Main */,
 				D15DF4961FCF9DE600AA9E37 /* Main.storyboard */,
 				D15DF49C1FCF9DE600AA9E37 /* Assets.xcassets */,
 				D15DF49E1FCF9DE600AA9E37 /* LaunchScreen.storyboard */,
@@ -72,6 +88,48 @@
 				D15DF4991FCF9DE600AA9E37 /* TD.xcdatamodeld */,
 			);
 			path = TD;
+			sourceTree = "<group>";
+		};
+		D15DF4A91FCF9E7000AA9E37 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				D15DF4941FCF9DE600AA9E37 /* Components.m */,
+				D15DF4931FCF9DE600AA9E37 /* Components.h */,
+				D15DF4AB1FCFA18F00AA9E37 /* Participants.h */,
+				D15DF4AC1FCFA18F00AA9E37 /* Participants.m */,
+				D15DF4AE1FCFA1B900AA9E37 /* Funding.h */,
+				D15DF4AF1FCFA1B900AA9E37 /* Funding.m */,
+				D15DF4B11FCFA1D000AA9E37 /* Register.h */,
+				D15DF4B21FCFA1D000AA9E37 /* Register.m */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		D15DF4AA1FCF9E8300AA9E37 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				D15DF4901FCF9DE600AA9E37 /* AppDelegate.h */,
+				D15DF4911FCF9DE600AA9E37 /* AppDelegate.m */,
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		D15DF4B41FCFA41600AA9E37 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				D15DF4B51FCFA46900AA9E37 /* cellComponents.h */,
+				D15DF4B61FCFA46900AA9E37 /* cellComponents.m */,
+				D15DF4B71FCFA46900AA9E37 /* cellComponents.xib */,
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
+		D17074F21FCFA5ED0072459A /* Img */ = {
+			isa = PBXGroup;
+			children = (
+				D17074FC1FCFA61C0072459A /* Artificial-Intelligence.jpg */,
+			);
+			path = Img;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -105,7 +163,7 @@
 				TargetAttributes = {
 					D15DF48C1FCF9DE600AA9E37 = {
 						CreatedOnToolsVersion = 9.1;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 					};
 				};
 			};
@@ -133,6 +191,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				D15DF4A01FCF9DE600AA9E37 /* LaunchScreen.storyboard in Resources */,
+				D17074FD1FCFA61C0072459A /* Artificial-Intelligence.jpg in Resources */,
+				D15DF4B91FCFA46900AA9E37 /* cellComponents.xib in Resources */,
 				D15DF49D1FCF9DE600AA9E37 /* Assets.xcassets in Resources */,
 				D15DF4981FCF9DE600AA9E37 /* Main.storyboard in Resources */,
 			);
@@ -145,10 +205,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D15DF4951FCF9DE600AA9E37 /* ViewController.m in Sources */,
+				D15DF4AD1FCFA18F00AA9E37 /* Participants.m in Sources */,
+				D15DF4B81FCFA46900AA9E37 /* cellComponents.m in Sources */,
+				D15DF4951FCF9DE600AA9E37 /* Components.m in Sources */,
 				D15DF4921FCF9DE600AA9E37 /* AppDelegate.m in Sources */,
+				D15DF4B01FCFA1B900AA9E37 /* Funding.m in Sources */,
 				D15DF4A31FCF9DE600AA9E37 /* main.m in Sources */,
 				D15DF49B1FCF9DE600AA9E37 /* TD.xcdatamodeld in Sources */,
+				D15DF4B31FCFA1D000AA9E37 /* Register.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -282,11 +346,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = TD/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.uag.TD;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -295,11 +361,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = TD/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.uag.TD;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
